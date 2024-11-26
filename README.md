@@ -26,3 +26,9 @@ Link the CSS file in your HTML page. This can now be used in place of
 yarn install
 yarn build
 ```
+
+## Compatibility
+
+| rainboot.css | Bootstrap  |
+|--------------|------------|
+| 1.0.0        | 5.3.2      |
