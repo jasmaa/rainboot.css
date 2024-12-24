@@ -4,7 +4,7 @@
   "license": "Apache-2.0",
   "scripts": {
     "build": "node build.mjs",
-    "clean": "rimraf dist"
+    "clean": "rimraf build"
   },
   "devDependencies": {
     "@cloudscape-design/components-themeable": "^3.0.500",
